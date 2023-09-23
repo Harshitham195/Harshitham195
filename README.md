@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harshitha M
+- 👋 Hi, I’m Harshitha Madihalli
 - Currently pursuing MS in Business Analytics in CSU East Bay.
 - 5+ of industry experience.
   
