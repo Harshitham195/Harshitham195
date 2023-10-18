@@ -7,9 +7,13 @@ Note: Data used in projects are for demonstration purposes and derive from publi
 
 🧐 About:
  I’m currently looking for a Summer Intern 2024 as a data analyst.
+ 
 🌱 I’m currently purusing MS in Business Analytics at California state university East Bay.
+
 👯 I’m looking to collaborate with other data enthusiasts.
+
 🥅 2023 Goals: Learn Learn Learn!
+
 📫 Reach me at harshitham195@gmail.com | https://www.linkedin.com/in/harshithamadihalli/
 
 <!---
