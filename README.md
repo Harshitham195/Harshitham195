@@ -1,6 +1,6 @@
-<body align="left">Hi 👋, I'm Harshitha! </h1>
+<body align="left">Hi 👋, I'm Harshitha! </body>
 
-*Welcome to my portfolio. I am a Data Analyst. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes*
+<body align="left">Welcome to my portfolio. I am a Data Analyst. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes </body>
   
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources*
 
