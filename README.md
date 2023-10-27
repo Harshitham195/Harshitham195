@@ -1,5 +1,7 @@
-<h1 align="left">Hi 👋, I'm Harshitha </h1>
+<body align="left">Hi 👋, I'm Harshitha </h1>
+
 <body align="left">Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.</h3>
+  
 <body align="left"> *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources..</h3>
 
 **🧐 About:**
