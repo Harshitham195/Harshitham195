@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Harshitha Madihalli</h1>
-<h3 align="center">A Data Geek</h3>
+<h1 align="left">Hi 👋, I'm Harshitha Madihalli</h1>
+<h3 align="left">Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.</h3>
+<h3 align="left"> *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources..</h3>
 
+- I’m currently looking for a **Summer Intern 2024 as a Data Analyst**
 - 🔭 I’m currently Studying **Masters in Business Analytics**
-
 - 📫 How to reach me **Harshitham195@gmail.com**
-
+- 👯 I’m looking to collaborate **with other data enthusiasts**
+- 🥅 2023 Goals: **Learn Learn Learn!**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshitha madihalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitha madihalli" height="30" width="40" /></a>
