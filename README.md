@@ -1,15 +1,15 @@
-<body align="left">Hi 👋, I'm Harshitha! </body>
+Hi there, I'm Harshitha!
 
-<body align="left">Welcome to my portfolio. I am a Data Analyst. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes </body>
-  
+Welcome to my portfolio. I am a Data Scientist/Analyst and Informaticist. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
+
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources*
 
 **🧐 About:**
-- 👀 I’m currently looking for a **Summer Intern 2024 as a Data Analyst**
-- 🔭 I’m currently Studying **Masters in Business Analytics**
-- 📫 Reach me at **Harshitham195@gmail.com**
-- 👯 I’m looking to collaborate **with other data enthusiasts**
-- 🥅 2023 Goals: **Learn Learn Learn!**
+- 👀 I’m currently looking for a *Summer Intern 2024 as a Data Analyst*
+- 🔭 I’m currently Studying *Masters in Business Analytics*
+- 📫 Reach me at *Harshitham195@gmail.com*
+- 👯 I’m looking to collaborate *with other data enthusiasts*
+- 🥅 2023 Goals: *Learn Learn Learn!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
