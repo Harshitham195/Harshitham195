@@ -6,7 +6,6 @@ Welcome to my portfolio. I am a Data Analyst. This is a collection of projects t
 
 **🧐 About:**
 - 🔭 Currently pursuing *Masters in Business Analytics*
-- 📫 Reach me at *Harshitham195@gmail.com*
 - 👯 I’m looking to collaborate *with other data enthusiasts*
 - 🥅 2023 Goals: *Learn Learn Learn!*
 
