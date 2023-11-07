@@ -13,7 +13,7 @@ Welcome to my portfolio. I am a Data Analyst. This is a collection of projects t
 <p align="left">
 <a href="https://www.linkedin.com/in/harshithamadihalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshithamadihalli" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/harshitham195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshitham195" height="30" width="40" /></a>
-<a href="https://harshitham195.github.io/harshitha_madihalli-github.io" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/998/998433.png" alt="@harshitham195" height="30" width="40" /></a>
+<a href="https://harshitham195.github.io/harshitha_madihalli-github.io" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2666/2666495.png" alt="@harshitham195" height="30" width="40" /></a>
 
 <h3 align="left">Explore my data viz</h3>
 <p align="left">
