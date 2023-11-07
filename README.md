@@ -4,10 +4,6 @@ Welcome to my portfolio. I am a Data Analyst. This is a collection of projects t
 
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources*
 
-**🧐 About:**
-- 🔭 Currently pursuing *Masters in Business Analytics*
-- 👯 I’m looking to collaborate *with other data enthusiasts*
-- 🥅 2023 Goals: *Learn Learn Learn!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
