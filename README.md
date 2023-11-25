@@ -12,7 +12,7 @@ Welcome to my portfolio. I am a Data Analyst. This is a collection of projects t
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harshithamadihalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshithamadihalli" height="30" width="40" /></a>
-<a href="https://harshitham195.github.io/harshitha_madihalli-github.io" target="blank"><img align="center" src="https://margheritapirola.files.wordpress.com/2021/12/imgbin_portfolio-graphic-design-investment-behance-png.png?w=700" alt="@harshitham195" height="30" width="40" /></a>
+<a href="https://harshitham195.github.io/harshitha_madihalli-github.io" target="blank"><img align="center" src="https://myportfolio.school.nz/theme/myportfolio-school-nz/images/site-logo.svg?v=9928" alt="@harshitham195" height="30" width="40" /></a>
 
 <h3 align="left">Delving Into My Expertise</h3>
 <p align="left">
