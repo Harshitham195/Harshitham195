@@ -14,37 +14,6 @@ Welcome to my portfolio. I am a Data Analyst. This is a collection of projects t
 <a href="https://leetcode.com/Harshitham95/" target="blank"><img align="center" src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4--768x512.png" alt="@harshitham195" height="30" width="40" /></a>
 </p>
 
-### Version Control:
-
-- [Git](https://git-scm.com/)
-  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-
-### Continuous Integration:
-
-- [Jenkins](https://www.jenkins.io)
-  ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
-
-### Database:
-
-- [MySQL](https://www.mysql.com/)
-  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-
-### Programming Language:
-
-- [Python](https://www.python.org)
-  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-
-### API Testing:
-
-- [Postman](https://www.postman.com/)
-  ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-
-### Issue Tracking:
-
-- [Jira](https://www.atlassian.com/software/jira)
-  ![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   <br/>
