@@ -4,8 +4,6 @@ Welcome to my portfolio. I am a Data Analyst. This is a collection of projects t
 
 *Note: Data used in projects are for demonstration purposes and derive from publicly accessible sources*
 
-*I'm in the early stages of building my portfolio, so I currently have only a few projects listed. I'll continue to update and expand it as I complete more projects in the future.*
-
 
 <h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
