@@ -1,6 +1,6 @@
 
 # Welcome to My GitHub Portfolio!
-Hello! I’m Harshitha Madihalli, a seasoned professional with over 5 years experience and passionate about leveraging data and technology to drive business outcomes. This portfolio showcases my journey.
+Hello! I’m Harshitha Madihalli, a seasoned professional with over 5 years of experience and is passionate about leveraging data and technology to drive business outcomes. This portfolio showcases my journey.
 
   - Currently pursuing - Master of Science in Business Analytics, California State University, East Bay.
   - Worked in companies like Synechron(Attra),Juniper Networks,CGI
