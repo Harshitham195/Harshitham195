@@ -1,6 +1,6 @@
 Hi there, I'm Harshitha!
 
-Welcome to my portfolio. I am a Data Analyst. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
+Welcome to my portfolio. This is a collection of projects that I am working on from a variety of disciplines and fields.
 
 *Note: Data used in projects are for demonstration purposes and derived from publicly accessible sources*
 
