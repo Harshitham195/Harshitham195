@@ -9,7 +9,7 @@ Hello! I’m Harshitha Madihalli, a seasoned professional passionate about lever
   
 - **Skills and Expertise:** Proficient in Python, SQL, data visualization, and more, developed through hands-on experience and continuous learning.
   
-- **Connect with Me:** Interested in discussing opportunities in analytics or software Testing? Let’s connect on [LinkedIn] https://www.linkedin.com/in/hmadihalli/ or via [email] harshitham195@gmail.com.
+- **Connect with Me:** Interested in discussing opportunities in analytics or software Testing? Let’s connect on LinkedIn - https://www.linkedin.com/in/hmadihalli/ or via email - harshitham195@gmail.com.
 
 Thank you for visiting—I look forward to connecting with you!
 
