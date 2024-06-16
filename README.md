@@ -11,11 +11,9 @@ Hello! I’m Harshitha Madihalli, a seasoned professional passionate about lever
   - Regression Engineer at Juniper Networks
   - Software Engineer at Synechron (Attra)
 
-## Why This Portfolio?
-
 This portfolio is my professional narrative—a testament to my transition from software engineering to mastering business analytics. Here’s why it’s valuable:
 
-- **Showcasing Projects:** Explore impactful projects that highlight my expertise in data analysis and software development.
+- **Showcasing Projects:** Explore impactful projects that highlight my expertise in data analysis.
   
 - **Skills and Expertise:** Proficient in Python, SQL, data visualization, and more, developed through hands-on experience and continuous learning.
   
