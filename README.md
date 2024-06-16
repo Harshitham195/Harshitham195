@@ -4,23 +4,18 @@
 Hello! I’m Harshitha Madihalli, a dedicated professional passionate about harnessing data and technology to drive business insights and innovation.
 
 ## Education
-
 - **Master of Science - Business Analytics**
   - *California State University, East Bay, USA*
-
 - **Bachelor of Science - Instrumentation Technology**
   - *JSS Academy of Technical Education, Bangalore, India*
 
 ## Work Experience
-
 - **Senior Software Engineer**
   - *CGI, Bangalore, India*
   - *Nov 2021 - Aug 2023*
-
 - **Regression Test Engineer**
   - *Juniper Networks, Bangalore, India*
   - *Mar 2021 - Nov 2021*
-
 - **Software Engineer**
   - *Synechron (Attra), Bangalore, India*
   - *Jan 2018 - Mar 2021*
@@ -39,7 +34,7 @@ This portfolio is my professional narrative—a testament to my journey from eng
 
 ## Let's Connect
 
-I’m eager to engage with like-minded professionals, recruiters, and collaborators. Connect with me on [https://www.linkedin.com/in/hmadihalli/] or drop me an [harshitham195@gmail.com]. Let’s explore how we can drive innovation and create value together.
+I’m eager to engage with like-minded professionals, recruiters, and collaborators. Connect with me on LinkedIn [https://www.linkedin.com/in/hmadihalli/] or drop me an Email on [harshitham195@gmail.com]. Let’s explore how we can drive innovation and create value together.
 
 Thank you for visiting! Let’s embark on this journey of discovery and growth.
 
