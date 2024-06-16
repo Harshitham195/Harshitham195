@@ -2,16 +2,10 @@
 # Welcome to My GitHub Portfolio!
 Hello! I’m Harshitha Madihalli, a seasoned professional passionate about leveraging data and technology to drive business outcomes. This portfolio showcases my journey and skills in:
 
-- **Education:**
-  - Master of Science in Business Analytics, California State University, East Bay - Currently pursuing
-  - Bachelor of Science in Instrumentation Technology, JSS Academy of Technical Education, Bangalore, India
+  - Currently pursuing - Master of Science in Business Analytics, California State University, East Bay.
+  - Have 5+ years of experience in companies like Synechron(Attra),Juniper Networks,CGI
 
-- **Work Experience:**
-  - Senior Software Engineer at CGI
-  - Regression Engineer at Juniper Networks
-  - Software Engineer at Synechron (Attra)
-
-- **Showcasing Projects:** Explore impactful projects that highlight my expertise in data analysis.
+- **Projects:** Explore impactful projects that highlight my expertise in data analysis.
   
 - **Skills and Expertise:** Proficient in Python, SQL, data visualization, and more, developed through hands-on experience and continuous learning.
   
