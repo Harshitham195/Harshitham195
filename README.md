@@ -1,18 +1,17 @@
 
-# Welcome to My GitHub Portfolio!
-Hello! I’m Harshitha Madihalli, a seasoned professional with over 5 years of experience and is passionate about leveraging data and technology to drive business outcomes. This portfolio showcases my journey.
+**Welcome to My GitHub Portfolio!**
 
-  - Currently pursuing - Master of Science in Business Analytics, California State University, East Bay.
-  - Worked in companies like Synechron(Attra),Juniper Networks,CGI
+Hello! I’m Harshitha Madihalli, an accomplished professional with over 5 years of experience dedicated to leveraging data and technology to drive impactful business outcomes. 
 
-- **Projects:** Explore impactful projects that highlight my expertise in data analysis.
-  
-- **Skills and Expertise:** Proficient in Python, SQL, data visualization, and more, developed through hands-on experience and continuous learning.
-  
-- **Connect with Me:** Interested in discussing opportunities in analytics or software Testing? Let’s connect on LinkedIn - https://www.linkedin.com/in/hmadihalli/ or via email - harshitham195@gmail.com.
+Currently, I am pursuing a Master of Science in Business Analytics at California State University, East Bay, further enriching my analytical skill set.
 
-Thank you for visiting—I look forward to connecting with you!
+I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI, where I honed my expertise in data analysis and software testing.
 
+My portfolio showcases a range of projects that demonstrate my proficiency in Python, SQL, data visualization, and other key technologies.
+
+Interested in discussing opportunities in analytics or software testing? Let’s connect on LinkedIn at [Harshitha Madihalli](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
+
+This version maintains a professional tone while highlighting your experience, skills, ongoing education, and a clear call to action for potential connections.
 
 <h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
