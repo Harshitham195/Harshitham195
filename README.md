@@ -1,34 +1,27 @@
 
 # Welcome to My GitHub Portfolio!
+Hello! I’m Harshitha Madihalli, a seasoned professional passionate about leveraging data and technology to drive business outcomes. This portfolio showcases my journey and skills in:
 
-Hello! I’m Harshitha Madihalli, a dedicated professional passionate about harnessing data and technology to drive business insights and innovation.
+- **Education:**
+  - Master of Science in Business Analytics, California State University, East Bay (Expected Dec 2024)
+  - Bachelor of Science in Instrumentation Technology, JSS Academy of Technical Education, Bangalore, India
 
-## Education
-- **Master of Science - Business Analytics** *California State University, East Bay, USA*
-- **Bachelor of Science - Instrumentation Technology** *JSS Academy of Technical Education, Bangalore, India*
+- **Work Experience:**
+  - Senior Software Engineer at CGI
+  - Regression Engineer at Juniper Networks
+  - Software Engineer at Synechron (Attra)
 
-## Work Experience
-- **Senior Software Engineer** *CGI, Bangalore, India* *Nov 2021 - Aug 2023*
-- **Regression Test Engineer** *Juniper Networks, Bangalore, India* *Mar 2021 - Nov 2021*
-- **Software Engineer** *Synechron (Attra), Bangalore, India* *Jan 2018 - Mar 2021*
+## Why This Portfolio?
 
-This portfolio is my professional narrative—a testament to my journey from engineering to mastering business analytics. Here’s why it’s worth exploring:
+This portfolio is my professional narrative—a testament to my transition from software engineering to mastering business analytics. Here’s why it’s valuable:
 
-- From software engineering at CGI and Juniper Networks to mastering business analytics at CSU East Bay, this portfolio showcases my adaptive skills and diverse experiences.
+- **Showcasing Projects:** Explore impactful projects that highlight my expertise in data analysis and software development.
+  
+- **Skills and Expertise:** Proficient in Python, SQL, data visualization, and more, developed through hands-on experience and continuous learning.
+  
+- **Connect with Me:** Interested in discussing opportunities in analytics or software Testing? Let’s connect on [LinkedIn] https://www.linkedin.com/in/hmadihalli/ or via [email] harshitham195@gmail.com.
 
-- Dive into projects that leverage my expertise in data-driven decision-making. Each project reflects my commitment to delivering practical solutions.
-
-- This portfolio serves as a gateway to connect with potential employers and collaborators who share a passion for innovation.
-
-- **Projects:** Explore a range of impactful projects—from software solutions that streamline operations to data analytics projects that uncover actionable insights.
-
-- **Skills and Expertise:** Discover my proficiency in Python, SQL, data visualization, and more. These skills have been honed through hands-on experience and continuous learning.
-
-## Let's Connect
-
-I’m eager to engage with like-minded professionals, recruiters, and collaborators. Connect with me on LinkedIn [https://www.linkedin.com/in/hmadihalli/] or drop me an Email on [harshitham195@gmail.com]. Let’s explore how we can drive innovation and create value together.
-
-Thank you for visiting! Let’s embark on this journey of discovery and growth.
+Thank you for visiting—I look forward to connecting with you!
 
 
 <h3 align="left">Delving Into My Expertise:</h3>
