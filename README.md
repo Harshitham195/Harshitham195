@@ -3,7 +3,7 @@
 Hello! I’m Harshitha Madihalli, a seasoned professional passionate about leveraging data and technology to drive business outcomes. This portfolio showcases my journey and skills in:
 
 - **Education:**
-  - Master of Science in Business Analytics, California State University, East Bay (Expected Dec 2024)
+  - Master of Science in Business Analytics, California State University, East Bay - Currently pursuing
   - Bachelor of Science in Instrumentation Technology, JSS Academy of Technical Education, Bangalore, India
 
 - **Work Experience:**
