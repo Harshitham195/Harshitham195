@@ -1,8 +1,47 @@
-Hi there, I'm Harshitha!
 
-Welcome to my portfolio. This is a collection of projects that I am working on from a variety of disciplines and fields.
+# Welcome to My Portfolio!
 
-*Note: Data used in projects are for demonstration purposes and derived from publicly accessible sources*
+Hello! I’m Harshitha Madihalli, a dedicated professional passionate about harnessing data and technology to drive business insights and innovation. Welcome to my GitHub portfolio.
+
+## Education
+
+- **Master of Science - Business Analytics**
+  - *California State University, East Bay, USA*
+
+- **Bachelor of Science - Instrumentation Technology**
+  - *JSS Academy of Technical Education, Bangalore, India*
+
+## Work Experience
+
+- **Senior Software Engineer**
+  - *CGI, Bangalore, India*
+  - *Nov 2021 - Aug 2023*
+
+- **Regression Test Engineer**
+  - *Juniper Networks, Bangalore, India*
+  - *Mar 2021 - Nov 2021*
+
+- **Software Engineer**
+  - *Synechron (Attra), Bangalore, India*
+  - *Jan 2018 - Mar 2021*
+
+This portfolio is my professional narrative—a testament to my journey from engineering to mastering business analytics. Here’s why it’s worth exploring:
+
+- From software engineering at CGI and Juniper Networks to mastering business analytics at CSU East Bay, this portfolio showcases my adaptive skills and diverse experiences.
+
+- Dive into projects that leverage my expertise in data-driven decision-making. Each project reflects my commitment to delivering practical solutions.
+
+- This portfolio serves as a gateway to connect with potential employers and collaborators who share a passion for innovation.
+
+- **Projects:** Explore a range of impactful projects—from software solutions that streamline operations to data analytics projects that uncover actionable insights.
+
+- **Skills and Expertise:** Discover my proficiency in Python, SQL, data visualization, and more. These skills have been honed through hands-on experience and continuous learning.
+
+## Let's Connect
+
+I’m eager to engage with like-minded professionals, recruiters, and collaborators. Connect with me on [https://www.linkedin.com/in/hmadihalli/] or drop me an [harshitham195@gmail.com]. Let’s explore how we can drive innovation and create value together.
+
+Thank you for visiting! Let’s embark on this journey of discovery and growth.
 
 
 <h3 align="left">Delving Into My Expertise:</h3>
