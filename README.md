@@ -1,7 +1,7 @@
 
-# Welcome to My Portfolio!
+# Welcome to My GitHub Portfolio!
 
-Hello! I’m Harshitha Madihalli, a dedicated professional passionate about harnessing data and technology to drive business insights and innovation. Welcome to my GitHub portfolio.
+Hello! I’m Harshitha Madihalli, a dedicated professional passionate about harnessing data and technology to drive business insights and innovation.
 
 ## Education
 
