@@ -4,21 +4,13 @@
 Hello! I’m Harshitha Madihalli, a dedicated professional passionate about harnessing data and technology to drive business insights and innovation.
 
 ## Education
-- **Master of Science - Business Analytics**
-  - *California State University, East Bay, USA*
-- **Bachelor of Science - Instrumentation Technology**
-  - *JSS Academy of Technical Education, Bangalore, India*
+- **Master of Science - Business Analytics** *California State University, East Bay, USA*
+- **Bachelor of Science - Instrumentation Technology** *JSS Academy of Technical Education, Bangalore, India*
 
 ## Work Experience
-- **Senior Software Engineer**
-  - *CGI, Bangalore, India*
-  - *Nov 2021 - Aug 2023*
-- **Regression Test Engineer**
-  - *Juniper Networks, Bangalore, India*
-  - *Mar 2021 - Nov 2021*
-- **Software Engineer**
-  - *Synechron (Attra), Bangalore, India*
-  - *Jan 2018 - Mar 2021*
+- **Senior Software Engineer** *CGI, Bangalore, India* *Nov 2021 - Aug 2023*
+- **Regression Test Engineer** *Juniper Networks, Bangalore, India* *Mar 2021 - Nov 2021*
+- **Software Engineer** *Synechron (Attra), Bangalore, India* *Jan 2018 - Mar 2021*
 
 This portfolio is my professional narrative—a testament to my journey from engineering to mastering business analytics. Here’s why it’s worth exploring:
 
