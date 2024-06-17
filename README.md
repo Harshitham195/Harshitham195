@@ -12,7 +12,7 @@ Hello! I’m Harshitha Madihalli, an accomplished professional with over 5 years
 
 Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
 
-Thank you for visiting—I look forward to connecting with you!
+Thank you for visiting - I look forward to connecting with you!
 
 
 <h3 align="left">Delving Into My Expertise:</h3>
