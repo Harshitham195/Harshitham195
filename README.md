@@ -1,26 +1,27 @@
-**Welcome to My GitHub Portfolio!**
+# Welcome to My GitHub Portfolio! 🚀
 
-## About Me
+**About Me**
 
 🎓 **Education:**  
-Currently pursuing a Master of Science in Business Analytics at California State University, East Bay.
+Pursuing a Master of Science in Business Analytics at California State University, East Bay.
 
 💼 **Experience:**  
-- Synechron (Attra)
-- Juniper Networks
-- CGI
+🔹 Synechron (Attra)  
+🔹 Juniper Networks  
+🔹 CGI
 
 🛠️ **Skills:**  
 Python, SQL, data visualization, and more.
 
 📁 **Portfolio:**  
-Showcases projects demonstrating my technical expertise.
+Explore projects showcasing my technical expertise and creativity.
 
 **Connect With Me**
 
-Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or email me at [harshitham195@gmail.com](mailto:harshitham195@gmail.com).
+🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or drop me an email at [harshitham195@gmail.com](mailto:harshitham195@gmail.com).
 
-Thank you for visiting!
+✨ Thank you for visiting - I look forward to connecting with you!
+
 
 
 <h3 align="left">Delving Into My Expertise:</h3>
