@@ -7,10 +7,7 @@ Welcome to my portfolio. This is a collection of projects that I am working on f
 
 🎓 **Education:** Master of Science in Business Analytics at California State University, East Bay.
 
-💼 **Experience:**  
-- Synechron (Attra)
-- Juniper Networks
-- CGI
+💼 **Experience:** I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI, where I honed my expertise in data analysis and software testing.
 
 🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
 
@@ -18,7 +15,7 @@ Welcome to my portfolio. This is a collection of projects that I am working on f
 
 🥅 **2024 Goals:** My focus is on continuous learning and growth!
 
-📫 **Contact:**  Reach me at harshitham195@gmail.com or on on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) 
+📫 **Contact:**  Reach me at harshitham195@gmail.com or on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) 
 
 <h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
