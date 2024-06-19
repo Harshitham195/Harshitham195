@@ -1,6 +1,6 @@
 **Hi there, I'm Harshitha! 👋**
 
-Welcome to my portfolio where I showcase my journey as an accomplished professional with 5+ years of experience dedicated to leveraging data and technology to drive impactful business outcomes.
+Welcome to my portfolio where I showcase my journey as an accomplished professional with 5+ years of experience, dedicated to leveraging data and technology to drive impactful business outcomes.
 
 Here, you'll find a collection of projects spanning various disciplines and fields, created for both academic exploration and personal interest.
 
