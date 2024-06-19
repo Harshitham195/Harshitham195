@@ -15,7 +15,7 @@ Welcome to my portfolio. This is a collection of projects that I am working on f
 
 🥅 **2024 Goals:** My focus is on continuous learning and growth!
 
-📫 **Contact:**  Reach me at harshitham195@gmail.com or on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) 
+📫 **Contact:**  Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
 
 <h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
