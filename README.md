@@ -5,15 +5,20 @@ Welcome to my portfolio. This is a collection of projects that I am working on f
 
 🧐 **About**:
 
-🌟 I’m currently looking for a full time opportunity as an SDET/Analyst.
- 
-🌱 I’m currently learning analytics
+🎓 **Education:** Master of Science in Business Analytics at California State University, East Bay.
 
-👯 I’m looking to collaborate with other tech enthusiasts
+💼 **Experience:**  
+- Synechron (Attra)
+- Juniper Networks
+- CGI
 
-🥅 2024 Goals: Learn Learn Learn!
+🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
 
-📫 Reach me at harshitham195@gmail.com
+👯 **Collaboration:** I'm eager to collaborate with other tech enthusiasts.
+
+🥅 **2024 Goals:** My focus is on continuous learning and growth!
+
+📫 **Contact:**  Reach me at harshitham195@gmail.com or on on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) 
 
 <h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
