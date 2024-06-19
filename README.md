@@ -1,5 +1,5 @@
 
-Hi there, I'm Harshitha! 
+Hi there, I'm Harshitha, an accomplished professional with over 5+ years of experience dedicated to leveraging data and technology to drive impactful business outcomes.
 
 Welcome to my portfolio. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
 
