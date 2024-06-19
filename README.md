@@ -1,21 +1,22 @@
+# Hi there, I'm Harshitha! 👋
 
-Hi there, I'm Harshitha, an accomplished professional with over 5+ years of experience dedicated to leveraging data and technology to drive impactful business outcomes.
+- Welcome to my portfolio where I showcase my journey as an accomplished professional with 5+ years of experience dedicated to leveraging data and technology to drive impactful business outcomes.
+- Here, you'll find a collection of projects spanning various disciplines and fields, created for both academic exploration and personal interest.
 
-Welcome to my portfolio. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
+## 🧐 About Me
 
-🧐 **About**:
+- 🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
+- 🎓 **Education:** Currently pursuing Master's in Business Analytics at CSU, East Bay (Expected: Dec 2024).
+- 💼 **Experience:** I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI.
+- 👯 **Collaboration:** I'm eager to collaborate with other tech enthusiasts.
+- 🥅 **2024 Goals:** My focus is on continuous learning and growth!
 
-🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
+## 📫 Contact Me
 
-🎓 **Education:** Currently pursuing Master's in Business Analytics at CSU, East Bay (Expected: Dec 2024)
+Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn]([your LinkedIn profile URL](https://www.linkedin.com/in/hmadihalli/)) or via email at harshitham195@gmail.com.
 
-💼 **Experience:** I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI.
+Thank you for visiting—I look forward to connecting and exploring exciting possibilities together! 🚀
 
-👯 **Collaboration:** I'm eager to collaborate with other tech enthusiasts.
-
-🥅 **2024 Goals:** My focus is on continuous learning and growth!
-
-📫 **Contact:**  Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or  at       harshitham195@gmail.com.
 
 <h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
