@@ -1,14 +1,20 @@
 
 Hi there, I'm Harshitha! 
-Welcome to my portfolio. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
+Welcome to my portfolio. 
+This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
 
 🧐 About:
 
  I’m currently looking for a full time opportunity as a SDET/ANALYST roles.
+ 
 🌱 I’m currently learning analytics
+
 👯 I’m looking to collaborate with other tech enthusiasts
+
 🥅 2024 Goals: Learn Learn Learn!
+
 📫 Reach me at harshitham195@gmail.com
+
 📌 Do check out my pinned projects below👇
 
 <h3 align="left">Delving Into My Expertise:</h3>
