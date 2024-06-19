@@ -5,7 +5,7 @@ This is a collection of projects that I am working on from a variety of discipli
 
 🧐 About:
 
- I’m currently looking for a full time opportunity as a SDET/ANALYST roles.
+🌟 I’m currently looking for a full time opportunity as a SDET/ANALYST.
  
 🌱 I’m currently learning analytics
 
