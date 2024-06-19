@@ -6,8 +6,8 @@ Here, you'll find a collection of projects spanning various disciplines and fiel
 
 **🧐 About Me**
 
-  🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
-  🎓 **Education:** Currently pursuing Master's in Business Analytics at CSU, East Bay (Expected: Dec 2024).
+- 🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
+- 🎓 **Education:** Currently pursuing Master's in Business Analytics at CSU, East Bay (Expected: Dec 2024).
 - 💼 **Experience:** I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI.
 - 👯 **Collaboration:** I'm eager to collaborate with other tech enthusiasts.
 - 🥅 **2024 Goals:** My focus is on continuous learning and growth!
