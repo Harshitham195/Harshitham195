@@ -1,29 +1,15 @@
-# Welcome to My GitHub Portfolio! 🚀
 
-**About Me**
+Hi there, I'm Harshitha! 
+Welcome to my portfolio. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
 
-🎓 **Education:**  
-Pursuing a Master of Science in Business Analytics at California State University, East Bay.
+🧐 About:
 
-💼 **Experience:**  
-🔹 Synechron (Attra)  
-🔹 Juniper Networks  
-🔹 CGI
-
-🛠️ **Skills:**  
-Python, SQL, data visualization, and more.
-
-📁 **Portfolio:**  
-Explore my projects showcasing technical prowess and creativity.
-
-
-**Connect With Me**
-
-🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or drop me an email at [harshitham195@gmail.com](mailto:harshitham195@gmail.com).
-
-✨ Thank you for visiting - I look forward to connecting with you!
-
-
+ I’m currently looking for a full time opportunity as a SDET/ANALYST roles.
+🌱 I’m currently learning analytics
+👯 I’m looking to collaborate with other tech enthusiasts
+🥅 2024 Goals: Learn Learn Learn!
+📫 Reach me at harshitham195@gmail.com
+📌 Do check out my pinned projects below👇
 
 <h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
