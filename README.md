@@ -5,12 +5,11 @@ Welcome to my portfolio. This is a collection of projects that I am working on f
 
 🧐 **About**:
 
+🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
+
 🎓 **Education:** Master of Science in Business Analytics at California State University, East Bay.
 
-💼 **Experience:** I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI,
-                   where I honed my expertise in data analysis and software testing.
-
-🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
+💼 **Experience:** I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI.
 
 👯 **Collaboration:** I'm eager to collaborate with other tech enthusiasts.
 
