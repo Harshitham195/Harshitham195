@@ -1,11 +1,10 @@
 
 # Welcome to My GitHub Portfolio!
 
-
+# About Me
 Hello! I’m Harshitha Madihalli, an accomplished professional with over 5 years of experience dedicated to leveraging data and technology to drive impactful business outcomes. 
-
-- Currently, I am pursuing a Master of Science in Business Analytics at California State University, East Bay, further enriching my analytical skill set.
-- I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI, where I honed my expertise in data analysis and software testing.
+- I am currently pursuing a Master of Science in Business Analytics at California State University, East Bay, further enriching my analytical skill set. 
+- I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI, where I honed my expertise in data analysis and software testing. 
 - My portfolio showcases a range of projects that demonstrate my proficiency in Python, SQL, data visualization, and other key technologies.
 
 ## Connect With Me
