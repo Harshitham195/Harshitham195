@@ -1,7 +1,7 @@
 
 Hi there, I'm Harshitha! 
-Welcome to my portfolio. 
-This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
+
+Welcome to my portfolio. This is a collection of projects that I am working on from a variety of disciplines and fields for academic and hobby purposes.
 
 🧐 About:
 
