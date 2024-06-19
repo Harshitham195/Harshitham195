@@ -1,6 +1,6 @@
 **Welcome to My GitHub Portfolio!**
 
-***About Me***
+## About Me
 
 🎓 **Education:**  
 Currently pursuing a Master of Science in Business Analytics at California State University, East Bay.
