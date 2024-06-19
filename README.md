@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio!
 
-## About Me
+**About Me**
 
 🎓 **Education:**  
 Currently pursuing a Master of Science in Business Analytics at California State University, East Bay.
@@ -16,9 +16,9 @@ Python, SQL, data visualization, and more.
 📁 **Portfolio:**  
 Showcases projects demonstrating my technical expertise.
 
-## Connect With Me
+**Connect With Me**
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or email me at [harshitham195@gmail.com](mailto:harshitham195@gmail.com).
+Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or email me at [harshitham195@gmail.com](mailto:harshitham195@gmail.com).
 
 Thank you for visiting!
 
