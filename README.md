@@ -18,10 +18,9 @@ Showcases projects demonstrating my technical expertise.
 
 ## Connect With Me
 
-Let’s connect on [LinkedIn](https://www.linkedin.com) or email me at [harshitham195@gmail.com](mailto:harshitham195@gmail.com).
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or email me at [harshitham195@gmail.com](mailto:harshitham195@gmail.com).
 
 Thank you for visiting!
-
 
 
 <h3 align="left">Delving Into My Expertise:</h3>
