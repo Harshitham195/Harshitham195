@@ -15,7 +15,7 @@ Here, you'll find a collection of projects spanning various disciplines and fiel
 **📫 Contact Me** 
 Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn]([your LinkedIn profile URL](https://www.linkedin.com/in/hmadihalli/)) or via email at harshitham195@gmail.com.
 
-Thank you for visiting—I look forward to connecting and exploring exciting possibilities together! 🚀
+Thank you for visiting - I look forward to connecting and exploring exciting possibilities together! 🚀
 
 
 <h3 align="left">Delving Into My Expertise:</h3>
