@@ -1,9 +1,9 @@
-# Hi there, I'm Harshitha! 👋
+**Hi there, I'm Harshitha! 👋**
 
 - Welcome to my portfolio where I showcase my journey as an accomplished professional with 5+ years of experience dedicated to leveraging data and technology to drive impactful business outcomes.
 - Here, you'll find a collection of projects spanning various disciplines and fields, created for both academic exploration and personal interest.
 
-## 🧐 About Me
+**🧐 About Me**
 
 - 🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
 - 🎓 **Education:** Currently pursuing Master's in Business Analytics at CSU, East Bay (Expected: Dec 2024).
@@ -11,8 +11,7 @@
 - 👯 **Collaboration:** I'm eager to collaborate with other tech enthusiasts.
 - 🥅 **2024 Goals:** My focus is on continuous learning and growth!
 
-## 📫 Contact Me
-
+**📫 Contact Me** 
 Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn]([your LinkedIn profile URL](https://www.linkedin.com/in/hmadihalli/)) or via email at harshitham195@gmail.com.
 
 Thank you for visiting—I look forward to connecting and exploring exciting possibilities together! 🚀
