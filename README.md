@@ -5,7 +5,7 @@ Welcome to my portfolio. This is a collection of projects that I am working on f
 
 🧐 **About**:
 
-🌟 I’m currently looking for a full time opportunity as a SDET/ANALYST.
+🌟 I’m currently looking for a full time opportunity as an SDET/Analyst.
  
 🌱 I’m currently learning analytics
 
