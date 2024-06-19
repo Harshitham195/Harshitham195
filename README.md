@@ -14,9 +14,13 @@ Pursuing a Master of Science in Business Analytics at California State Universit
 Python, SQL, data visualization, and more.
 
 📁 **Portfolio:**  
-Explore projects showcasing my technical expertise and creativity.Check out my:
-**Tableau Projects** <p align="Center">
-<a href="https://public.tableau.com/app/profile/harshitha.madihalli/vizzes" target="blank"><img align="center" src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_760x427.v1569475368.jpg" alt="@harshitham195" height="30" width="40" /></a>
+Explore projects showcasing my technical expertise and creativity. Check out my Tableau projects:
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/harshitha.madihalli/vizzes" target="_blank">
+    <img src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_760x427.v1569475368.jpg" alt="@harshitham195" height="30" width="40" />
+  </a>
+</p>
+
 
 **Connect With Me**
 
