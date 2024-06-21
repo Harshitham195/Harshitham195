@@ -13,7 +13,7 @@ Here, you'll find a collection of projects spanning various disciplines and fiel
 - 🥅 **2024 Goals:** My focus is on continuous learning and growth!
 
 **📫 Contact Me** 
-Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn][https://www.linkedin.com/in/hmadihalli/] or via email at harshitham195@gmail.com.
+Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
 
 Thank you for visiting - I look forward to connecting and exploring exciting possibilities together! 🚀
 
