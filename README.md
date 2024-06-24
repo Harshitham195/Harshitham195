@@ -18,8 +18,7 @@ Interested in discussing opportunities in analytics or software testing? Let’s
 Thank you for visiting - I look forward to connecting and exploring exciting possibilities together! 🚀
 
 
-<h3 align="left">Data Visualization 
-👇🏻</h3>
+<h3 align="left">Data Visualization:</h3>
 <p align="left">
 <a href="https://public.tableau.com/app/profile/harshitha.madihalli/vizzes" target="blank"><img align="center" src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_760x427.v1569475368.jpg" alt="@harshitham195" height="40" width="50" /></a>
 
