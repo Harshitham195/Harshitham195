@@ -17,12 +17,9 @@ Interested in discussing opportunities in analytics or software testing? Let’s
 
 Thank you for visiting - I look forward to connecting and exploring exciting possibilities together! 🚀
 
-
-<h3 align="left">Data Visualization:</h3>
+<h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
 <a href="https://public.tableau.com/app/profile/harshitha.madihalli/vizzes" target="blank"><img align="center" src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_760x427.v1569475368.jpg" alt="@harshitham195" height="50" width="60" /></a>
-
-<h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">  
 <a href="https://www.hackerrank.com/profile/harshitham195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshitham195" height="40" width="50" /></a>
 <a href="https://leetcode.com/Harshitham95/" target="blank"><img align="center" src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4--768x512.png" alt="@harshitham195" height="40" width="50" /></a>
@@ -36,8 +33,6 @@ Thank you for visiting - I look forward to connecting and exploring exciting pos
 </a> <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/>
 </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
 </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://softwaremedia.com/wp-content/uploads/excel.jpeg" alt="MS Excel" width="40" height="40"/>
-
-
 
 </p>
 
