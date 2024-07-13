@@ -15,8 +15,6 @@ Here, you'll find a collection of projects spanning various disciplines and fiel
 **📫 Contact Me** 
 Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
 
-Thank you for visiting - I look forward to connecting and exploring exciting possibilities together! 🚀
-
 <h3 align="left">Delving Into My Expertise:</h3>
 <p align="left">
 <a href="https://public.tableau.com/app/profile/harshitha.madihalli/vizzes" target="blank"><img align="center" src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_760x427.v1569475368.jpg" alt="@harshitham195" height="50" width="60" /></a>
@@ -41,3 +39,6 @@ Thank you for visiting - I look forward to connecting and exploring exciting pos
 |--------------|------|-------------|
 | :package:    | [Pricing Analysis of Northern California Housing](https://github.com/Harshitham195/Pricing-Analysis-of-Northern-California-Housing) | 🏡 To analyze Northern California's housing market and identify key factors influencing property prices. |
 | :package: | [Tableau - Sales Customer Dashbaord](https://github.com/Harshitham195/Sales-Customer-Dashboard) | 💻 Collection of my Tableau data analysis and visualization work. |
+
+
+Thank you for visiting - I look forward to connecting and exploring exciting possibilities together! 🚀
