@@ -39,5 +39,5 @@ Thank you for visiting - I look forward to connecting and exploring exciting pos
 
 | :point_down: | Repo | Description |
 |--------------|------|-------------|
-| :package:    | https://github.com/Harshitham195/Pricing-Analysis-of-Northern-California-Housing | 🏡 To Analyze the current housing market conditions in Northern California and determine the key factors influencing property prices. |
+| :package:    | [Pricing Analysis of Northern California Housing](https://github.com/Harshitham195/Pricing-Analysis-of-Northern-California-Housing) | 🏡 To analyze Northern California's housing market and identify key factors influencing property prices. |
 
