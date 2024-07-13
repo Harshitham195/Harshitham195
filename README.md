@@ -35,9 +35,9 @@ Thank you for visiting - I look forward to connecting and exploring exciting pos
 
 </p>
 
-## 📂 My Data Science projects:
+## 📂 My projects:
 
 | :point_down: | Repo | Description |
 |--------------|------|-------------|
-| :package: |  | 🏡 Project focused on increasing the number of successful bookings using OKR model |
+| :package:    | https://github.com/Harshitham195/Pricing-Analysis-of-Northern-California-Housing | 🏡 To Analyze the current housing market conditions in Northern California and determine the key factors influencing property prices. |
 
