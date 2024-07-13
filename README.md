@@ -35,6 +35,9 @@ Thank you for visiting - I look forward to connecting and exploring exciting pos
 
 </p>
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
+## 📂 My Data Science projects:
+
+| :point_down: | Repo | Description |
+|--------------|------|-------------|
+| :package: |  | 🏡 Project focused on increasing the number of successful bookings using OKR model |
+
