@@ -40,4 +40,4 @@ Thank you for visiting - I look forward to connecting and exploring exciting pos
 | :point_down: | Repo | Description |
 |--------------|------|-------------|
 | :package:    | [Pricing Analysis of Northern California Housing](https://github.com/Harshitham195/Pricing-Analysis-of-Northern-California-Housing) | 🏡 To analyze Northern California's housing market and identify key factors influencing property prices. |
-
+| :package: | [Tableau Sales Customer Dashbaord](https://github.com/Harshitham195/Sales-Customer-Dashboard) | 💻 Collection of my Tableau data analysis and visualization work |
