@@ -1,12 +1,4 @@
-**Hi there, I'm Harshitha! 👋** a professional with 5+ years of experience, dedicated to leveraging data and technology to drive impactful business outcomes.
-
-**🧐 About Me**
-
-- 🌟 **Career Objective:** Currently seeking a full-time opportunity as an SDET/Analyst.
-- 🎓 **Education:** Currently pursuing Master's in Business Analytics at CSU, East Bay (Expected: Dec 2024).
-- 💼 **Experience:** I have contributed to renowned companies including Synechron (Attra), Juniper Networks, and CGI.
-- 👯 **Collaboration:** I'm eager to collaborate with other tech enthusiasts.
-- 🥅 **2024 Goals:** My focus is on continuous learning and growth!
+**Hi there, I'm Harshitha! 👋** Result driven professional with 5+ years of experience, dedicated to leveraging data and technology to drive impactful business outcomes.
 
 **📫 Contact Me** 
 Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
