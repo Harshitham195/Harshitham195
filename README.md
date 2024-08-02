@@ -1,4 +1,4 @@
-**Hi there, I'm Harshitha! 👋** Result driven professional with 5+ years of experience, dedicated to leveraging data and technology to drive impactful business outcomes.
+**Hi there, I'm Harshitha! 👋** professional with 5+ years of experience, dedicated to leveraging data and technology to drive impactful business outcomes.
 
 **📫 Contact Me** 
 Interested in discussing opportunities in analytics or software testing? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
